@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          3
+          3方法
         </a>
       </header>
     </div>
